@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro">registro</string>
+    <string name="title_activity_viaje">viaje</string>
+    <string name="title_activity_estadisticas">estadisticas</string>
+    <string name="title_activity_stats">stats</string>
+    <string name="title_activity_boleto">boleto</string>
+</resources>
